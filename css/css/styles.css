@@ -1,0 +1,131 @@
+/* font-family: "Raleway", serif;
+font-family: "Roboto", serif; */
+
+
+body {
+    font-family: "Roboto", serif;
+    color: #434455;
+    background-color: #fff;
+    font-family:"Roboto", sans-serif;
+}
+
+ul, ol {
+    list-style-type: none
+}
+
+a {
+    text-decoration: none
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+}
+.header-logo .logo-part{
+    color: #2e2f42;
+}
+
+.footer-logo .logo-part{
+    color: #f4f4fd;
+}
+
+.nav-link{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.contacts {
+    font-style: normal;
+}
+
+.contacts-link {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+    }
+
+.page-footer {
+background-color: #2e2f42;
+}
+
+.section-one {
+    background-color: #2e2f42;
+}
+
+.title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.btn {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: #404BBF;
+    cursor: pointer;
+}
+
+.title-two {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+color:  #2e2f42;
+font-size: 36px;
+}
+
+.pgg {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.section-three {
+    font-size: 36px;
+    background-color: #F4F4FD;
+    line-height: 1.11;
+}
+
+h2 {
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:  #2e2f42;
+}
+
+.li {
+    background-color: #FFFFFF
+}
