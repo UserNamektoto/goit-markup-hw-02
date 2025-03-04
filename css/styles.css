@@ -51,7 +51,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.nav-link:hover,
+.nav-link:hover {
+color: #404bbf;
+}
+
 .nav-link:focus {
     color: #404bbf;
 }
@@ -86,7 +89,7 @@ background-color: #2e2f42;
 
 .btn:hover,
 .btn:focus {
-    background-color: #404BBF;
+    background-color: #404bbf;
     cursor: pointer;
 }
 
@@ -157,4 +160,8 @@ color: #2e2f42;
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.span {
+color:#f4f4fd
 }
