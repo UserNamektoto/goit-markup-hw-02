@@ -51,10 +51,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.nav-link:hover {
-color: #404bbf;
-}
-
+.nav-link:hover,
 .nav-link:focus {
     color: #404bbf;
 }
@@ -164,4 +161,9 @@ color: #2e2f42;
 
 .span {
 color:#f4f4fd
+}
+
+.h2titletwo{
+font-size:20px;
+line-height: 1.2;
 }
