@@ -84,8 +84,8 @@ background-color: #2e2f42;
 
 .btn:hover,
 .btn:focus {
-    background-color: #404bbf;
     cursor: pointer;
+    color: #404bbf;
 }
 
 .title-two {
