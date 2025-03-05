@@ -57,7 +57,7 @@ color: #434455;
 .contacts-link:focus {
   color: #404bbf;
  }
- 
+
 .page-footer {
 background-color: #2e2f42;
 }
@@ -100,15 +100,15 @@ letter-spacing: 0.02em;
 
 .pgg {
     color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
     letter-spacing: 0.02em;
+     font-size: 16px;
+    line-height: 1.5;
 }
 
 .section-three {
     background-color: #F4F4FD;
-     line-height: 1.11;
      font-size: 36px;
+     line-height: 1.11;
 }
 
 .title-team {
