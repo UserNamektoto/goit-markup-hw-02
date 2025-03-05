@@ -90,7 +90,13 @@ background-color: #2e2f42;
     background-color: #404bbf;
 }
 
-
+.title-two {
+color:  #2e2f42;
+font-size: 20px;
+line-height: 1.2;
+font-weight: 500;
+letter-spacing: 0.02em;
+}
 
 .pgg {
     color: #434455;
@@ -165,12 +171,4 @@ line-height: 1.2;
     color: #434455;
     line-height: 1.5;
     font-size: 16px
-}
-
-.title-two {
-color:  #2e2f42;
-font-weight: 500;
-letter-spacing: 0.02em;
-font-size: 20px;
-line-height: 1.2;
 }
