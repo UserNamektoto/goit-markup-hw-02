@@ -51,6 +51,11 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.contacts-link:hover, 
+.contacts-link:focus,{
+    color: #404bbf;
+}
+
 .nav-link:hover,
 .nav-link:focus {
     color: #404bbf;
@@ -85,7 +90,7 @@ background-color: #2e2f42;
 .btn:hover,
 .btn:focus {
     cursor: pointer;
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .title-two {
