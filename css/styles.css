@@ -51,21 +51,13 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.page-header,
-.page-header {
-    color: #404bbf;
-}
-
-.contacts-link:hover, 
-.contacts-link:focus,{
-    color: #404bbf;
-}
-
 .nav-link:hover,
-.nav-link:focus {
-    color: #404bbf;
-}
-
+.nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+ }
+ 
 .page-footer {
 background-color: #2e2f42;
 }
