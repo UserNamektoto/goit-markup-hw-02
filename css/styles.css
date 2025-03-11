@@ -127,8 +127,10 @@ p {
     color:  #2e2f42;
 }
 
-.li {
-    background-color: #FFFFFF
+.team-item {
+    background-color: #FFFFFF;
+    font-size: 36px;
+    line-height: 1.11;
 }
 
 .title-portfolio {
@@ -140,7 +142,7 @@ text-transform: capitalize;
 color: #2e2f42;
 }
  
-.titles4 {
+.titlesfour {
 color: #2e2f42;
 font-weight: 500;
 font-size: 20px;
@@ -162,7 +164,7 @@ letter-spacing: 0.02em
 color:#f4f4fd
 }
 
-.h2titletwo{
+.htwotitletwo{
 font-size:20px;
 line-height: 1.2;
 }
