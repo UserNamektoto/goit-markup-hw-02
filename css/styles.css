@@ -174,3 +174,8 @@ line-height: 1.2;
     line-height: 1.5;
     font-size: 16px
 }
+
+.portfolio-item {
+    font-size: 36px;
+    line-height: 1.11;
+}
